@@ -1,0 +1,14 @@
+# Datasets (download separately, see README)
+data/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# MNE cache
+mne_data/
+
+# OS
+.DS_Store

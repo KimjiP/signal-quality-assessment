@@ -1,0 +1,7 @@
+# Tested versions (Python 3.9)
+numpy==2.0.2
+scipy==1.13.1
+matplotlib==3.9.4
+wfdb==4.3.1
+mne==1.8.0
+jupyter
