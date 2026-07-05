@@ -18,7 +18,7 @@ known noisy periods; the metric collapses in almost every one.*
 
 | Signal | Metric | Idea |
 |---|---|---|
-| **PPG** | skewness | sharp, regular pulses are right-skewed (Elgendi 2016) |
+| **PPG** | periodicity (autocorrelation) | a clean pulse repeats at a steady beat interval |
 | **ECG** | kurtosis | tall, narrow QRS spikes give heavy tails (Zhao & Zhang 2018) |
 | **EMG** | SNR | gesture amplitude vs. resting baseline (field standard) |
 | **EEG** | amplitude threshold + kurtosis | flat clinical bounds (~&pm;150 &micro;V) |
